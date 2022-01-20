@@ -14,7 +14,7 @@ Android Studio를 활용한 Kotlin App 생성
 ![에디트버튼](https://user-images.githubusercontent.com/84887939/150294144-0fc50466-74ee-472d-b522-30e95be545c8.jpg)
 
 
-3. intentKt!
+3. intentKt
 
 ![인텐트뷰](https://user-images.githubusercontent.com/84887939/150294442-7c73cafc-3162-47dc-ba7d-305e58d0a5b1.jpg)
 ![인텐트뷰2](https://user-images.githubusercontent.com/84887939/150294394-fd92c19f-524b-4775-a40d-0813f60f6d1f.jpg)
