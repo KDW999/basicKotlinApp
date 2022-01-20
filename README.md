@@ -12,4 +12,4 @@ Android Studio를 활용한 Kotlin App 생성
 
 4. imageViewKt
 
-5. listView
+5. listViewKt
