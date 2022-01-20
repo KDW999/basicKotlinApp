@@ -10,6 +10,10 @@ Android Studio를 활용한 Kotlin App 생성
 
 2. editTextButtonKt
 
+![에디트버튼2](https://user-images.githubusercontent.com/84887939/150294135-77360b15-1963-4e72-838f-1fcb8bacfe0a.jpg)
+![에디트버튼](https://user-images.githubusercontent.com/84887939/150294144-0fc50466-74ee-472d-b522-30e95be545c8.jpg)
+
+
 3. intentKt
 
 4. imageViewKt
