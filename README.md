@@ -32,3 +32,12 @@ Android Studio를 활용한 Kotlin App 생성
 
 ![네비게이션뷰](https://user-images.githubusercontent.com/84887939/150293081-45a75969-2de1-4717-8a1f-fc431483c5eb.jpg)
 ![네비게이션뷰2](https://user-images.githubusercontent.com/84887939/150293096-575c9cd7-22de-4f62-9326-d126ee2bc3dd.jpg)
+
+7. shareKt (내부 DB)
+
+![내부 DB](https://user-images.githubusercontent.com/84887939/150729861-9f00ede3-79f6-4494-88f6-03a8d4c9335f.jpg)
+
+8. webViewKt
+
+![웹뷰](https://user-images.githubusercontent.com/84887939/150729890-74cdaaa5-1f0f-4454-b0b4-ae50c89a9d42.jpg)
+
