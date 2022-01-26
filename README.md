@@ -41,7 +41,7 @@ Android Studio를 활용한 Kotlin App 생성
 
 ![웹뷰](https://user-images.githubusercontent.com/84887939/150729890-74cdaaa5-1f0f-4454-b0b4-ae50c89a9d42.jpg)
 
-9.
+9. recyclerViewKt
 
-![KakaoTalk_20220126_173420243](https://user-images.githubusercontent.com/84887939/151129969-06afb7d0-010c-4d49-b9a4-2346c34ae335.jpg)
+![KakaoTalk_20220126_173420243](https://user-images.githubusercontent.com/84887939/151130113-2973ba43-01c4-489b-b5b2-d3835b1cc0ce.jpg)
 
