@@ -45,3 +45,10 @@ Android Studio를 활용한 Kotlin App 생성
 
 ![KakaoTalk_20220126_173420243](https://user-images.githubusercontent.com/84887939/151130113-2973ba43-01c4-489b-b5b2-d3835b1cc0ce.jpg)
 
+10. fragmentKt
+
+![KakaoTalk_20220127_162440689_02](https://user-images.githubusercontent.com/84887939/151316925-a07d2ff6-fe04-4031-8c0a-258f3d2b4215.jpg)
+![KakaoTalk_20220127_162440689_01](https://user-images.githubusercontent.com/84887939/151316933-99e851a6-a754-452c-a65f-8385900fa553.jpg)
+![KakaoTalk_20220127_162440689](https://user-images.githubusercontent.com/84887939/151316875-0650462c-8463-4b5d-8970-71e2a0c1186e.jpg)
+
+
